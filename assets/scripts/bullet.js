@@ -3,7 +3,8 @@ const config = require("config");
 
 //Thang Minh da ia cho nay
 //thang tung cung ia cho nay
-=======
+// test source tree
+
 cc.Class({
     extends: cc.Component,
     properties: {
