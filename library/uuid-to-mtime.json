@@ -534,11 +534,6 @@
     "meta": 1621236653003,
     "relativePath": "font/font.png"
   },
-  "be6d1db1-0d47-4851-ba48-3fbe04201075": {
-    "asset": 1621236622480,
-    "meta": 1621236653015,
-    "relativePath": "scripts/bullet.js"
-  },
   "988d8060-12ae-4914-971f-51323b48a634": {
     "asset": 1621236622481,
     "meta": 1621236653050,
@@ -633,5 +628,10 @@
     "asset": 1621236622490,
     "meta": 1621236653187,
     "relativePath": "sound/use_bomb.mp3"
+  },
+  "be6d1db1-0d47-4851-ba48-3fbe04201075": {
+    "asset": 1621239054973,
+    "meta": 1621236653015,
+    "relativePath": "scripts/bullet.js"
   }
 }
