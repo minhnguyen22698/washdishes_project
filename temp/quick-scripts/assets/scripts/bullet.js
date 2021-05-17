@@ -6,6 +6,7 @@ cc._RF.push(module, 'be6d12xDUdIUbpIP74EIBB1', 'bullet', __filename);
 
 var mEmitter = require("mEmitter");
 var config = require("config");
+//Thang Minh da ia cho nay
 cc.Class({
     extends: cc.Component,
     properties: {
