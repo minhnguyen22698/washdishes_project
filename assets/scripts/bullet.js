@@ -26,7 +26,7 @@ cc.Class({
         let a = other.node.group == "enemy"
         if (other.node.group == "enemy") {
             this.onBulletKilled()
-
+            //.create by Minh
         }
     },
     onBulletKilled() {
