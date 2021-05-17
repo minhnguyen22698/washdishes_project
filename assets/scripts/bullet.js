@@ -3,8 +3,11 @@ const config = require("config");
 
 //Thang Minh da ia cho nay
 //thang tung cung ia cho nay
+<<<<<<< HEAD
 // test source tree
 
+=======
+>>>>>>> ad07096466d270f9e6e59840ea2173d7e1f3451e
 cc.Class({
     extends: cc.Component,
     properties: {
