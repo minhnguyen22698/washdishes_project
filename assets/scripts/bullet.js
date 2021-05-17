@@ -31,6 +31,7 @@ cc.Class({
     },
     onBulletKilled() {
         //Alo alo 
+        //Minh test merge
         mEmitter.instance.removeEvent(config.event.UPDATE_GAMESTATE, this._updateGameState)
         this.node.destroy();
 
