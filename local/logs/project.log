@@ -1,0 +1,69 @@
+2021-05-17T07:23:25.107Z - normal: Load ~/.CocosCreator/settings.json
+2021-05-17T07:23:25.155Z - normal: Initializing Asset Database
+2021-05-17T07:23:25.157Z - normal: checking language setting...
+2021-05-17T07:23:25.157Z - normal: Language: en
+2021-05-17T07:23:25.716Z - success: preview server running at http://localhost:7456
+2021-05-17T07:23:25.729Z - success: protocol editor-framework registered
+2021-05-17T07:23:25.729Z - success: protocol app registered
+2021-05-17T07:23:25.729Z - success: protocol theme registered
+2021-05-17T07:23:25.729Z - success: protocol packages registered
+2021-05-17T07:23:25.730Z - success: protocol uuid registerred
+2021-05-17T07:23:25.730Z - success: protocol db registerred
+2021-05-17T07:23:25.730Z - success: protocol thumbnail registerred
+2021-05-17T07:23:25.730Z - success: protocol unpack registerred
+2021-05-17T07:23:25.730Z - success: protocol disable-commonjs registerred
+2021-05-17T07:23:27.395Z - normal: connected!
+2021-05-17T07:23:27.397Z - normal: Check project /Users/gemi/Desktop/washdishes
+2021-05-17T07:23:27.399Z - normal: Initializing project /Users/gemi/Desktop/washdishes
+2021-05-17T07:23:27.708Z - normal: Initializing Cocos2d
+2021-05-17T07:23:28.427Z - normal: Initializing engine extends
+2021-05-17T07:23:28.459Z - success: alipay-adapter loaded
+2021-05-17T07:23:28.464Z - success: asset-db-debugger loaded
+2021-05-17T07:23:28.466Z - success: baidu-adapter loaded
+2021-05-17T07:23:28.469Z - success: color-picker loaded
+2021-05-17T07:23:28.567Z - success: fb-audience-network loaded
+2021-05-17T07:23:28.613Z - success: fb-live-stream loaded
+2021-05-17T07:23:28.615Z - success: google-play-instant loaded
+2021-05-17T07:23:28.621Z - success: huawei-runtime loaded
+2021-05-17T07:23:28.813Z - success: cpk-publish loaded
+2021-05-17T07:23:28.815Z - success: jsb-adapter loaded
+2021-05-17T07:23:28.822Z - success: oppo-runtime loaded
+2021-05-17T07:23:28.830Z - success: package-manager loaded
+2021-05-17T07:23:28.940Z - success: qqplay-adapter loaded
+2021-05-17T07:23:28.944Z - success: runtime-dev-tools loaded
+2021-05-17T07:23:28.951Z - success: sdkbox loaded
+2021-05-17T07:23:28.958Z - success: tester loaded
+2021-05-17T07:23:28.963Z - success: ui-kit-preview-extra loaded
+2021-05-17T07:23:28.969Z - success: ui-kit-preview loaded
+2021-05-17T07:23:28.974Z - success: ui-kit loaded
+2021-05-17T07:23:28.983Z - success: vivo-runtime loaded
+2021-05-17T07:23:28.985Z - success: weapp-adapter loaded
+2021-05-17T07:23:28.989Z - success: xiaomi-adapter loaded
+2021-05-17T07:23:28.992Z - success: alipay-minigame loaded
+2021-05-17T07:23:29.038Z - success: assets loaded
+2021-05-17T07:23:29.041Z - success: builder loaded
+2021-05-17T07:23:29.215Z - success: cocos-services loaded
+2021-05-17T07:23:29.220Z - success: console loaded
+2021-05-17T07:23:29.246Z - success: fb-instant-games loaded
+2021-05-17T07:23:29.249Z - success: game-window loaded
+2021-05-17T07:23:29.250Z - success: google-instant-games loaded
+2021-05-17T07:23:29.254Z - success: hierarchy loaded
+2021-05-17T07:23:29.256Z - success: inspector loaded
+2021-05-17T07:23:29.258Z - success: keystore loaded
+2021-05-17T07:23:29.261Z - success: node-library loaded
+2021-05-17T07:23:29.263Z - success: package-asset loaded
+2021-05-17T07:23:29.265Z - success: preferences loaded
+2021-05-17T07:23:29.267Z - success: project-exporter loaded
+2021-05-17T07:23:29.270Z - success: project-importer loaded
+2021-05-17T07:23:29.273Z - success: project-settings loaded
+2021-05-17T07:23:29.276Z - success: scene loaded
+2021-05-17T07:23:29.277Z - success: simulator-debugger loaded
+2021-05-17T07:23:29.279Z - success: sprite-editor loaded
+2021-05-17T07:23:29.282Z - success: store loaded
+2021-05-17T07:23:29.287Z - success: timeline loaded
+2021-05-17T07:23:29.290Z - success: xiaomi-runtime loaded
+2021-05-17T07:23:29.396Z - success: im-plugin loaded
+2021-05-17T07:23:33.504Z - info: Cocos Services load base data!
+2021-05-17T07:23:33.898Z - normal: Loading packages
+2021-05-17T07:23:33.902Z - normal: Watching packages
+2021-05-17T07:23:33.974Z - normal: Run Application

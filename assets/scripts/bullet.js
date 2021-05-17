@@ -1,5 +1,6 @@
 const mEmitter = require("mEmitter");
 const config = require("config");
+//Thang Minh da ia cho nay
 cc.Class({
     extends: cc.Component,
     properties: {
