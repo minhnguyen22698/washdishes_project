@@ -1,6 +1,5 @@
 const mEmitter = require("mEmitter");
 const config = require("config");
-//Thang Minh da ia cho nay
 cc.Class({
     extends: cc.Component,
     properties: {
@@ -14,6 +13,7 @@ cc.Class({
         mEmitter.instance.registerEvent(config.event.UPDATE_GAMESTATE, this._updateGameState)
     },
     updateGameState(data) {
+        //Minh
         this._gameState = data
     },
     start() {
