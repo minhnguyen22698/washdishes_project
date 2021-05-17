@@ -3,7 +3,6 @@ const config = require("config");
 
 //Thang Minh da ia cho nay
 //thang tung cung ia cho nay
-=======
 cc.Class({
     extends: cc.Component,
     properties: {
@@ -31,6 +30,7 @@ cc.Class({
         }
     },
     onBulletKilled() {
+        //Alo alo 
         mEmitter.instance.removeEvent(config.event.UPDATE_GAMESTATE, this._updateGameState)
         this.node.destroy();
 
